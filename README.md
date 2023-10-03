@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Cadu! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Analyst</a> <a href="https://www.youtube.com/c/joshmadakor"></h1>
 
-<!--
-**caduromar/caduromar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyebersecurit Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Personal Projects</b>
+  - [Home Lab](https://github.com/caduromar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Certifications: </h2>
+
+- [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/badges/c93a0e3d-6217-4fae-8c51-72e474c4934c/print)
+
+
+[linkedin]: https://www.linkedin.com/in/carlos-eduardo-romar-28b110162
